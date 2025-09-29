@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   objectives, topics covered, expectations, general references, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -56,17 +58,17 @@ General References
 
 Bryson, Jr. Arthur E. and Yu-Chi Ho. _Applied Optimal Control: Optimization, Estimation and Control_. Taylor & Francis, 1975. ISBN: 9780891162285.
 
-{{% resource_link "9ab4f76e-f808-4638-81ec-ae35ce471ab4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gelb, Arthur. {{% resource_link "9ab4f76e-f808-4638-81ec-ae35ce471ab4" "_Applied Optimal Estimation_" %}}. MIT Press, 1974. ISBN: 9780262570480.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262570480) Gelb, Arthur. [_Applied Optimal Estimation_](https://mitpress.mit.edu/9780262570480). MIT Press, 1974. ISBN: 9780262570480.
 
 Gelman, A., J. Carlin, et al. _Bayesian Data Analysis_. Chapman and Hall, 2003. ISBN: 9781584883883.
 
-Martinez, W. L., and A. R. Martinez. _Computational Statistics Handbook with MATLAB_. 2nd ed. Chapman and Hall/CRC, 2007. ISBN: 978158488566. \[Preview with {{% resource_link "f228281a-5364-4351-a1b3-5ea5c509313d" "Google Books" %}}\]
+Martinez, W. L., and A. R. Martinez. _Computational Statistics Handbook with MATLAB_. 2nd ed. Chapman and Hall/CRC, 2007. ISBN: 978158488566. \[Preview with [Google Books](http://books.google.com/books?id=WhTNBQAAQBAJ&pg=Pafrontcover)\]
 
 Papoulis, A. _Probability, Random Variables & Stochastic Processes_. McGraw-Hill, 2002. ISBN: 9780071226615.
 
 Silverman, B. W. _Density Estimation for Statistics and Data Analysis_. Chapman and Hall/CRC, 1986. ISBN: 9780412246203.
 
-{{% resource_link "ebed45a5-18e0-4f85-9fc6-64199726dd6d" "Double Pendulum" %}}.
+[Double Pendulum](http://www.myphysicslab.com/dbl_pendulum.html).
 
 Grading
 -------

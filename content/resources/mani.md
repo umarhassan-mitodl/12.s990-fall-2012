@@ -4,6 +4,8 @@ description: This is a special file of the software used in Lecture 10.
 file: /courses/12-s990-quantifying-uncertainty-fall-2012/cc6e493561e6428ec26a2939c8e5d588_mani.m
 file_size: 65364
 file_type: text/x-objcsrc
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
