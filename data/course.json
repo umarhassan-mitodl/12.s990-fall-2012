@@ -38,7 +38,6 @@
     "website": "12-s990-quantifying-uncertainty-fall-2012"
   },
   "course_title": "Quantifying Uncertainty",
-  "hide_download": true,
   "course_description": "The ability to quantify the uncertainty in our models of nature is fundamental to many inference problems in Science and Engineering. In this course, we study advanced methods to represent, sample, update and propagate uncertainty. This is a \"hands on\" course: Methodology will be coupled with applications. The course will include lectures, invited talks, discussions, reviews and projects and will meet once a week to discuss a method and its applications.\n",
   "department_numbers": [
     "12"
@@ -49,7 +48,6 @@
     "content": "542a1e71-326e-b614-fe6c-1c622e899181",
     "website": "12-s990-quantifying-uncertainty-fall-2012"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Projects with Examples",
     "Lecture Notes"
